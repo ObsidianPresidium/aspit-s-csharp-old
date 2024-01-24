@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspit-s-csharp-old", "aspit-s-csharp-old\aspit-s-csharp-old.csproj", "{87C949E7-D40C-4EA2-A49B-F0929A371771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C949E7-D40C-4EA2-A49B-F0929A371771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C949E7-D40C-4EA2-A49B-F0929A371771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C949E7-D40C-4EA2-A49B-F0929A371771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C949E7-D40C-4EA2-A49B-F0929A371771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
