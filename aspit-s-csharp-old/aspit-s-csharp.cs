@@ -10,13 +10,15 @@ namespace aspit_s_csharp
         static DoubleNumber doubleNumber = new DoubleNumber();
         static Factorial factorial = new Factorial();
         static PrintPattern printPattern = new PrintPattern();
+        static GameOfLuck gameOfLuck = new GameOfLuck();
         
         static string[] solutions =
         {
             "Program",
             "doubleNumber",
             "factorial",
-            "printPattern"
+            "printPattern",
+            "gameOfLuck"
         }; 
         
         static void Main(string[] args)
@@ -60,6 +62,9 @@ namespace aspit_s_csharp
                     break;
                 case 3:
                     printPattern.Main();
+                    break;
+                case 4:
+                    gameOfLuck.Main();
                     break;
                 default:
                     Console.WriteLine("Uhåndteret fejl :/");
